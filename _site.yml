@@ -1,0 +1,17 @@
+name: my-website
+output_dir: '.'
+navbar:
+  title: My Website
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+output:
+  html_document:
+    theme: journal
+    lib_dir: site_libs
+    self_contained: no
+
+#Adding hyperlink mean [putting the ext in brackets](and the link in parentheses)
+#add image   ![](link a image)
