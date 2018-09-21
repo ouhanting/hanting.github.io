@@ -9,7 +9,7 @@ navbar:
     href: about.html
 output:
   html_document:
-    theme: journal
+    theme: cosmo
     lib_dir: site_libs
     self_contained: no
 
